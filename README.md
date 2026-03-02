@@ -131,6 +131,12 @@ Add JSON-LD for:
 
 Ensure alignment with actual engineering functionality.
 
+### Framework Docs
+
+- [Content Structure Model](frameworks/content-structure-model.md)
+- [URL Architecture Patterns](frameworks/url-architecture-patterns.md)
+- [Structured Data Examples](frameworks/structured-data-examples.md)
+
 ---
 
 ## Future Additions
